@@ -1,1 +1,2 @@
 # Odin-Recipes
+Hello! My name is Ben Ramirez, I am a Communications Graduate, a Digital Team Lead and my local La Habra Walmart, and now I am an aspiring Frontend Developer. To be honest with you, I have been trying to find some spark, a desire, to find something that I want to persue and run with it! Two years after I graduated and two years working for walmart, I think it's time for me to do something bigger and better!!
